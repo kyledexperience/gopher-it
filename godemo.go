@@ -32,6 +32,7 @@ func main() {
 
 	x := 1
 	x = increment(x)
+	x = increment(x)
 	fmt.Println(x)
 
 }
